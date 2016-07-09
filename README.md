@@ -1,4 +1,5 @@
 # Soundboard
+:VERSION:  v1.3.0.2
 
 :SETUP:
 Just Drag the folder anywhere you want
